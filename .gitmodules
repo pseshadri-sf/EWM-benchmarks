@@ -1,0 +1,6 @@
+[submodule "Spider2-V"]
+	path = Spider2-V
+	url = https://github.com/pseshadri-sf/Spider2-V.git
+[submodule "MMInA"]
+	path = MMInA
+	url = https://github.com/pseshadri-sf/MMInA.git
