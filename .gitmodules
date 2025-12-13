@@ -4,3 +4,6 @@
 [submodule "MMInA"]
 	path = MMInA
 	url = https://github.com/pseshadri-sf/MMInA.git
+[submodule "WebCanvas"]
+	path = WebCanvas
+	url = https://github.com/TalkShopClub/WebCanvas.git
